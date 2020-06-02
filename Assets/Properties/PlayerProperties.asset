@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7080ac7839f409842a208d913c6982b5, type: 3}
+  m_Name: PlayerProperties
+  m_EditorClassIdentifier: 
+  KeyCodes: 14010000130100007a000000
+  KeyRotate: 7100000072000000
+  jumpPower: {x: 0.0000021457672, y: -1}
+  speed: 0.096
+  lightPower: 0
+  particleSystemTransform:
+  - {fileID: 1767572113569649710, guid: 01db69c917e140643a2e9a2146aaeec9, type: 3}
+  - {fileID: 916613924546604133, guid: 2e34e1f8d762935478de5095392a26a1, type: 3}
